@@ -24,3 +24,6 @@ $$\alpha_{norm} = {\frac{\eta}{||\nabla f(x^k, \xi^k)||_2}}$$
 LinearRandNormClip is a norm-clipping method using randomization when clipping gradient, which helps to shift the mathematical expectation less.
 $$P(\text{clip})=\beta^{\alpha_{\text{norm}}}, \text{where}\ 0<\beta<1 \text{ and}\ \alpha = \alpha_{\text{norm}}$$
 
+-----------
+<br>
+
